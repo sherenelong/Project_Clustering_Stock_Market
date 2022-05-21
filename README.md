@@ -1,0 +1,2 @@
+# Project_Clustering_Stock_Market
+Trade &amp; Ahead is a financial consultancy firm who provides their customers with personalized investment strategies. A dataset encompassing stock price and some financial indicators for a few companies listed under the New York Stock Exchange has been provided. Objective is to analyze the data, group the stocks based on the attributes provided, and share insights about the characteristics of each group.
